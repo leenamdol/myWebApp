@@ -1,1 +1,2 @@
-pip install scikit-learn;
+scikit-learn==1.5.2
+
