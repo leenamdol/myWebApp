@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 pip install scikit-learn
-=======
-pip install scikit-learn
->>>>>>> e76cc8d6e2089c993988d082f6d8b362c1039f3b
