@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'gitpyapplnd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5961CAAE50444139F76CF6E704B9BAA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F326A8FE30A842FEBB25E710E5CFD03E }}
